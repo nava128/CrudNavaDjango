@@ -6,3 +6,7 @@ Please ensure that you create your own virtual environment and install all the n
 
 Enjoy!
 
+## video youtube
+-
+- https://youtu.be/pqWyUAT38e0?si=D5GM9GdouSxnNbzI
+
